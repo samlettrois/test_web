@@ -3,6 +3,6 @@ const bottom = document.querySelector("#bottom"),
 
 const years = "2019";
 const months = "10";
-const days = "03";
+const days = "06";
 
 bottom_text.innerText = `TEST용 | 최종 수정 ${years} ${months} ${days}`;
